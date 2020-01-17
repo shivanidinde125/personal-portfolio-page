@@ -1,1 +1,55 @@
-/* Add your CSS code here */
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 700px;
+    margin: auto;
+
+
+  }
+
+body {
+      min-width: 500px;
+      background-color: #e0eeee;
+  }
+
+.profileBody {
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 590px;
+    background-color: white;
+    padding: 10px;
+    background-origin: padding-box;
+    display:solid black 1px;
+}
+
+h1{
+    color:BLACK;
+    
+}
+
+h2{
+    color:SKYBLUE;
+h3{
+    color:black;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+ul{
+    color:black;
+}
+
+hr{
+    
+    border-top: solid black 1px;
+}
+
+
+
+
+
+
